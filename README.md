@@ -1,2 +1,1 @@
-"# vRAG" 
-"# vRAG" 
+This vRAG system is for internal purposes.
