@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f0f0 !important;
+  color: #000000;
+}
+
+.MuiButton-contained {
+  background-color: #e0e0e0 !important;
+  color: #000000 !important;
+}
+
+.MuiButton-contained:hover {
+  background-color: #bdbdbd !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+}
+
+.vrag-title {
+  color: #000000;
+}
